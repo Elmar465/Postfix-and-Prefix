@@ -26,7 +26,7 @@ int main()
     std::cout << "The value is (decrementing) : " << value-- <<std::endl; //5
     std::cout << "The value is : " << value << std::endl; //4
 
-    //Prefix increament/decrement
+    //Postfix increament/decrement
     value = 5;
     ++value;
     std::cout<<"The value is (prefix++) : " << value <<std::endl;
